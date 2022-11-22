@@ -1,0 +1,31 @@
+header{
+	position: fixed;
+	font-size: 50;
+	color:black;
+	text-align: center;
+	background-color:hotpink;
+	width:100%;
+	line-height: 2;
+    top: 0;
+	right: 0;
+	left: 0;
+
+}
+body
+{
+	background-image: hsptl.jpeg;
+}
+footer
+{
+	text-align: center;
+	position: fixed;
+	width: 100%;
+	background-color:hotpink ;
+	bottom: 0;
+}
+div
+
+{
+	margin-top: red;
+	text-align: center;
+}
